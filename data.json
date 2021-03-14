@@ -1,0 +1,19 @@
+[ 
+  {
+      "id": 1,
+      "name" : "Lis Eilin Garcia Rosell",
+      "email": "lisegr@estudiantes.uci.cu",
+      "facebook" :"lisibla",
+      "imagefacebook": "/images/facebook.png"
+  },
+  {
+      "id" : 2,
+      "name" :"Rosangela Herrera suarez",
+      "email": "rosangelahs@estudiantes.uci.cu"
+  },
+  {
+      "id" : 3,
+      "name" : "Yurier Herrera Lugo",
+      "email" : "yurierjhl@estudiantes.uci.cu"  
+    }
+]
